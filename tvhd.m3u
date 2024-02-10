@@ -1,0 +1,100 @@
+#EXTM3U
+#EXTINF:0,m1HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,200,201,202,203,204,206,6502
+#EXTINF:0,m2 HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,400,401,402,403,404,406,6504
+#EXTINF:0,Duna HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,600,601,602,603,604,606,6506
+#EXTINF:0,Duna World HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=154&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,800,801,802,803,804,806,6508
+#EXTINF:0,M5 HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,1400,1401,1402,1403,1404,1406,6515
+#EXTINF:0,RTL HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=154&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,3230,3200,3201,3202,3203,3021,3211
+#EXTINF:0,TV2 HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=146&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,1300,1301,1302,1303,1304,1306
+#EXTINF:0,
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=642&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,4230,4200,4201,4202
+#EXTINF:0,SuperTV2 HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,1500,1501,1502
+#EXTINF:0,Viasat 3 HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=154&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,1959,1951,1952,1953
+#EXTINF:0,ATV HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=490&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,100,191,101,5401,123
+#EXTINF:0,Mozi+ HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=650&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,200,201,202
+#EXTINF:0,Cool HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,4130,4100,4101,4102
+#EXTINF:0,Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,32,8190,2701,256
+#EXTINF:0,Prime HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=618&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,200,201,202,206
+#EXTINF:0,
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=610&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,630,600,601,602
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,6876,610,611,613,617
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,100,101,111,112
+#EXTINF:0,Paramount Network HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,32,8190,256,257,258,308
+#EXTINF:0,Film+ HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=602&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,4330,4300,4301,4302
+#EXTINF:0,Eurosport 1 HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=634&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,71,501,1101,1102,1103,1114,5101
+#EXTINF:0,Eurosport 2 HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=634&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,3730,3700,141,3701,3702
+#EXTINF:0,Sport1 HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=626&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,100,101,111
+#EXTINF:0,Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=626&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,2705,2703,2704
+#EXTINF:0,
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,400,401,402
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,8030,8000,8001,8002
+#EXTINF:0,Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=642&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,8130,8100,8101,8102
+#EXTINF:0,Spektrum HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=602&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,100,4061,4062
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,6209,6211,6222,6223,6249
+#EXTINF:0,ID HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=618&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,5509,5511,5522,5521,5549
+#EXTINF:0,TV Paprika HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=650&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,100,101,111,112
+#EXTINF:0,LIFE TV HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=506&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,2300,2301,2302,2303
+#EXTINF:0,Dikh TV HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.0.50:554/?avm=1&freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6875&specinv=1&pids=0,16,17,18,20,2730,2701,2702
